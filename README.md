@@ -36,11 +36,6 @@ I am a **Computer Science Engineer** (Class of 2026) specializing in **Distribut
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github.com/AbhinavPInamdar/AbhinavPInamdar/blob/metrics/github-metrics.svg" alt="GitHub Metrics" />
-</p>
 
 ## 🏆 GitHub Trophies
 
