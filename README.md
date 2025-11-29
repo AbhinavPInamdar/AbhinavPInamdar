@@ -38,10 +38,9 @@ I am a **Computer Science Engineer** (Class of 2026) specializing in **Distribut
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavPInamdar&show_icons=true&theme=tokyonight&hide_border=true" alt="Abhinav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavPInamdar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavPInamdar&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavPInamdar&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
----
 
 
 <p align="center">
