@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbhinavPInamdar&label=Profile%20Views&color=blue&style=flat" alt="AbhinavPInamdar" />
   <a href="https://www.linkedin.com/in/abhinavpinamdar/"><img src="https://img.shields.io/badge/LinkedIn-Abhinav%20Inamdar-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/AbhinavPInamdar/"><img src="https://img.shields.io/badge/LeetCode-1600+-orange?style=flat&logo=leetcode" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/glee_mingle/"><img src="https://img.shields.io/badge/LeetCode-1600+-orange?style=flat&logo=leetcode" alt="LeetCode" /></a>
 </p>
 
 ---
@@ -47,4 +47,4 @@ I am a **Computer Science Engineer** (Class of 2026) specializing in **Distribut
 
 - **LinkedIn:** [Abhinav Inamdar](https://www.linkedin.com/in/abhinavpinamdar/)
 - **Portfolio:** [abhinavpinamdar.github.io](https://abhinavpinamdar.github.io/)
-- **Email:** [YourEmail@example.com] <p align="center">⭐️ From <a href="https://github.com/AbhinavPInamdar">AbhinavPInamdar</a></p>
+- **Email:** [abhinavsnet@gmail.com] <p align="center">⭐️ From <a href="https://github.com/AbhinavPInamdar">AbhinavPInamdar</a></p>
