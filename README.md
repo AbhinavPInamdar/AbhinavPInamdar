@@ -39,8 +39,7 @@ I am a **Computer Science Engineer** (Class of 2026) specializing in **Distribut
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbhinavPInamdar&show_icons=true&theme=radical&v=1" alt="Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavPInamdar&theme=radical&v=1" alt="Streak" />
+  <img src="https://github.com/AbhinavPInamdar/AbhinavPInamdar/blob/metrics/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ## 🏆 GitHub Trophies
