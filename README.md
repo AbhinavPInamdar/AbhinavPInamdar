@@ -35,17 +35,19 @@ I am a **Computer Science Engineer** (Class of 2026) specializing in **Distribut
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavPInamdar&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavPInamdar&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/AbhinavPInamdar/AbhinavPInamdar/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbhinavPInamdar&show_icons=true&theme=radical&v=1" alt="Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavPInamdar&theme=radical&v=1" alt="Streak" />
 </p>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhinavPInamdar&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+</div>
 
 ### 📫 How to Reach Me
 
