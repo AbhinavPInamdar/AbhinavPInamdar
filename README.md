@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Science Engineer** (Class of 2026) specializing in **Distributed Systems**, **Cloud Infrastructure**, and **High-Performance Computing**.
+I am a **Computer Science Engineer** (Class of 2026), intern @Blackduck specializing in **Distributed Systems**, **Cloud Infrastructure**, and **High-Performance Computing**.
 
 - 🔭 I’m currently building **PulseRoute** (an adaptive gRPC load balancer).
 - ⚡ I have engineered **EchoFS**, a distributed file system with O(1) lookups.
